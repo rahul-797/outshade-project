@@ -1,16 +1,3 @@
-# outshade_project
+# Outshade Project
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://user-images.githubusercontent.com/106862063/175271198-787afe8a-5dbb-4f82-9e2b-380e8156a472.jpeg" width="128">         <img src="user-images.githubusercontent.com/106862063/175271209-4471fd42-7a4d-4b2d-bf1b-3faa00cd67f4.jpeg" width="128">         <img src="https://user-images.githubusercontent.com/106862063/175271220-f65f18c9-b66d-424c-ae11-2aa1e8ce179a.jpeg" width="128">
